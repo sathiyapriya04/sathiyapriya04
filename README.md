@@ -1,7 +1,7 @@
 <div align="center">
 
-<!-- Unique Welcome Section -->
-<img src="https://capsule-render.vercel.app/api?type=cylinder&color=gradient&customColorList=24&height=150&section=header&text=Welcome%20to%20my%20Profile&fontSize=40&fontColor=ffffff&animation=fadeIn" width="100%"/>
+<!-- Wave Header matching footer style -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24&height=150&section=header&text=Welcome%20to%20my%20Profile&fontSize=40&fontColor=ffffff" width="100%"/>
 
 <br/>
 
