@@ -1,16 +1,21 @@
 <div align="center">
-  
-<!-- Clean Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=180&section=header&text=Sathiya%20Priya%20P&fontSize=45&fontColor=ffffff&fontAlignY=35&desc=Full%20Stack%20Developer&descSize=18&descAlignY=55" width="100%"/>
 
-<!-- Contact Badges -->
+<!-- Unique Welcome Section -->
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=gradient&customColorList=24&height=150&section=header&text=Welcome%20to%20my%20Profile&fontSize=40&fontColor=ffffff&animation=fadeIn" width="100%"/>
+
+<br/>
+
+# Hi, I'm Sathiya Priya P 👋
+
+**Full Stack Developer** from **Coimbatore, India**
+
+Currently studying at **PSG College of Technology**
+
+<br/>
+
 <a href="mailto:sathiyapriyasudha2004@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/sathiya-priya-p-06092a328/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://github.com/sathiyapriya04"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-
-<br/><br/>
-
-**PSG College of Technology** · Coimbatore, Tamil Nadu, India
 
 </div>
 
@@ -18,16 +23,12 @@
 
 ### About Me
 
-<img align="right" alt="Coding" width="280" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+I'm passionate about building clean, efficient, and user-friendly web applications. I enjoy exploring new technologies and solving problems through code.
 
-I'm a passionate **Full Stack Developer** focused on building clean, efficient, and user-friendly applications.
-
-- Currently working on **Web Development Projects**
-- Learning **React, Node.js, and AI/ML**
-- Open to collaborating on interesting projects
-- Reach me at **sathiyapriyasudha2004@gmail.com**
-
-<br clear="both"/>
+- 🔭 Currently working on **Web Development Projects**
+- 🌱 Learning **React, Node.js, and AI/ML**
+- 💡 Love to explore new technologies
+- 📫 Reach me at **sathiyapriyasudha2004@gmail.com**
 
 ---
 
@@ -70,19 +71,6 @@ I'm a passionate **Full Stack Developer** focused on building clean, efficient, 
 
 ### Featured Projects
 
-<div align="center">
-
-<a href="https://github.com/sathiyapriya04/MEDICOS">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sathiyapriya04&repo=MEDICOS&theme=default&hide_border=true&bg_color=ffffff&title_color=667eea&icon_color=764ba2" width="48%"/>
-</a>
-<a href="https://github.com/sathiyapriya04/Snake-game">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sathiyapriya04&repo=Snake-game&theme=default&hide_border=true&bg_color=ffffff&title_color=667eea&icon_color=764ba2" width="48%"/>
-</a>
-
-</div>
-
-<br/>
-
 | Project | Description |
 |:--------|:------------|
 | **MEDICOS** | Healthcare management platform |
@@ -98,21 +86,11 @@ I'm a passionate **Full Stack Developer** focused on building clean, efficient, 
 
 ---
 
-### Achievements
-
-<div align="center">
-  
-<img src="https://github-profile-trophy.vercel.app/?username=sathiyapriya04&theme=flat&no-frame=true&column=6&margin-w=10" alt="Trophies"/>
-
-</div>
-
----
-
-### Connect
+### Let's Connect
 
 <div align="center">
 
-Open to collaborating on interesting projects. Feel free to reach out.
+I'm always open to collaborating on interesting projects. Feel free to reach out!
 
 <br/>
 
@@ -122,7 +100,7 @@ Open to collaborating on interesting projects. Feel free to reach out.
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=sathiyapriya04&color=667eea&style=flat-square&label=Profile+Views" alt="Profile Views"/>
+<img src="https://komarev.com/ghpvc/?username=sathiyapriya04&color=667eea&style=flat-square&label=Profile+Views"/>
 
 </div>
 
@@ -130,8 +108,8 @@ Open to collaborating on interesting projects. Feel free to reach out.
 
 <div align="center">
   
-**Made with dedication by Sathiya Priya P**
+*Thanks for visiting my profile!*
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24&height=100&section=footer" width="100%"/>
