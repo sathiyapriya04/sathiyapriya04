@@ -93,7 +93,6 @@ I'm a passionate **Full Stack Developer** from **Coimbatore, India**, currently 
 | 🎮 **Snake Game** | Classic game with modern UI |
 | 📋 **Leave Management** | Employee leave tracking system |
 | 🛒 **Shoplist** | Smart shopping list application |
-| 📱 **Cobay** | Full-stack web application |
 
 </div>
 
