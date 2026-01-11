@@ -1,145 +1,169 @@
 <div align="center">
   
-<!-- Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Sathiya%20Priya%20P&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Exploring%20%E2%80%A2%20Learning%20%E2%80%A2%20Evolving&descSize=18&descAlignY=52"/>
+<!-- Dynamic Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=Sathiya%20Priya%20P&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Problem%20Solver&descSize=20&descAlignY=55&descAlign=50" width="100%"/>
 
-<!-- Social Badges -->
-<a href="mailto:sathiyapriyasudha2004@gmail.com">
-  <img src="https://img.shields.io/badge/-Email%20Me-EA4335?style=flat-square&logo=gmail&logoColor=white" />
-</a>
-<a href="https://www.linkedin.com/in/sathiya-priya-p-06092a328/">
-  <img src="https://img.shields.io/badge/-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
-</a>
-<a href="https://github.com/sathiyapriya04">
-  <img src="https://img.shields.io/badge/-Follow-181717?style=flat-square&logo=github&logoColor=white" />
-</a>
+<br/>
+
+<!-- Professional Badges -->
+<a href="mailto:sathiyapriyasudha2004@gmail.com"><img src="https://img.shields.io/badge/Email-sathiyapriyasudha2004%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<br/><br/>
+<a href="https://www.linkedin.com/in/sathiya-priya-p-06092a328/"><img src="https://img.shields.io/badge/LinkedIn-Connect%20with%20me-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+&nbsp;
+<a href="https://github.com/sathiyapriya04"><img src="https://img.shields.io/badge/GitHub-Follow%20@sathiyapriya04-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 
 <br/><br/>
 
-<!-- Animated Text -->
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=24&duration=4000&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=true&repeat=false&width=500&height=80&lines=%F0%9F%8E%93+PSG+College+of+Technology;%F0%9F%93%8D+Coimbatore%2C+India" alt="Info" />
+<!-- Typing Animation -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&multiline=true&repeat=false&width=600&height=100&lines=%F0%9F%8E%93+PSG+College+of+Technology;%F0%9F%93%8D+Coimbatore%2C+Tamil+Nadu%2C+India;%E2%9C%A8+Exploring%2C+Learning+%26+Evolving+Every+Day!" alt="Typing SVG" />
+
+</div>
+
+<br/>
+
+## 👩‍💻 About Me
+
+<img align="right" alt="Coding" width="300" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+
+I'm a passionate **Full Stack Developer** from **Coimbatore, India**, currently pursuing my studies at **PSG College of Technology**.
+
+- 🔭 Currently working on **Web Development Projects**
+- 🌱 Learning **React, Node.js, and AI/ML**
+- 💡 Love to explore new technologies
+- 🎯 Goal: Build impactful solutions
+- ⚡ Fun fact: **Coffee + Code = Magic** ☕
+
+<br clear="both"/>
+
+---
+
+## 🛠️ Technology Stack
+
+<div align="center">
+
+### Languages
+<img src="https://skillicons.dev/icons?i=js,python,html,css&theme=light" alt="Languages" />
+
+### Frameworks & Libraries
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,tailwind&theme=light" alt="Frameworks" />
+
+### Database & Tools
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,git,github,vscode,postman&theme=light" alt="Tools" />
 
 </div>
 
 ---
 
-### 🌸 About Me
-
-```yaml
-name: Sathiya Priya P
-role: Full Stack Developer
-location: Coimbatore, Tamil Nadu
-education: PSG College of Technology
-status: Always Learning ✨
-
-interests:
-  - Building Web Applications
-  - Creating Beautiful UIs
-  - Solving Problems
-
-currently:
-  learning: "React + Node.js + AI/ML"
-  building: "Impactful Projects"
-  
-fun_fact: "Coffee + Code = Magic ☕✨"
-```
-
----
-
-### 🎨 Tech Stack
+## 📊 GitHub Analytics
 
 <div align="center">
   
-| Frontend | Backend | Database | Tools |
-|:--------:|:-------:|:--------:|:-----:|
-| ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) | ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white) | ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) | ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) |
-| ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) | ![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white) | ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) | ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white) |
-| ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) | | ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) |
-| ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) | | | ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white) |
-| ![Tailwind](https://img.shields.io/badge/-Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white) | | | |
+<img src="https://github-readme-stats.vercel.app/api?username=sathiyapriya04&show_icons=true&theme=default&hide_border=true&bg_color=ffffff&title_color=667eea&icon_color=764ba2&text_color=333333" alt="GitHub Stats" width="48%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=sathiyapriya04&theme=default&hide_border=true&background=ffffff&ring=667eea&fire=764ba2&currStreakLabel=667eea" alt="GitHub Streak" width="48%"/>
+
+</div>
+
+<div align="center">
+  
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sathiyapriya04&layout=compact&theme=default&hide_border=true&bg_color=ffffff&title_color=667eea" alt="Top Languages" width="40%"/>
 
 </div>
 
 ---
 
-### 🚀 Featured Projects
+## 🚀 Featured Projects
 
 <div align="center">
 
 <a href="https://github.com/sathiyapriya04/MEDICOS">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sathiyapriya04&repo=MEDICOS&theme=buefy&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sathiyapriya04&repo=MEDICOS&theme=default&hide_border=true&bg_color=ffffff&title_color=667eea&icon_color=764ba2" width="48%"/>
 </a>
 <a href="https://github.com/sathiyapriya04/Snake-game">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sathiyapriya04&repo=Snake-game&theme=buefy&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sathiyapriya04&repo=Snake-game&theme=default&hide_border=true&bg_color=ffffff&title_color=667eea&icon_color=764ba2" width="48%"/>
 </a>
 
 </div>
-
-<div align="center">
-
-| Project | Description |
-|:--------|:------------|
-| 🏥 **MEDICOS** | Healthcare management system |
-| 🎮 **Snake Game** | Classic game with modern design |
-| 📋 **Leave Management** | Employee leave tracker |
-| 🛒 **Shoplist** | Smart shopping app |
-| 📱 **Cobay** | Full stack application |
-
-</div>
-
----
-
-### 📈 GitHub Stats
-
-<div align="center">
-  
-<img height="150" src="https://github-readme-stats.vercel.app/api?username=sathiyapriya04&show_icons=true&theme=buefy&hide_border=true&include_all_commits=true&count_private=true" />
-<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sathiyapriya04&layout=compact&theme=buefy&hide_border=true" />
-
-</div>
-
-<div align="center">
-  
-<img src="https://github-readme-streak-stats.herokuapp.com?user=sathiyapriya04&theme=buefy&hide_border=true" />
-
-</div>
-
----
-
-### 🏆 Achievements
-
-<div align="center">
-  
-![Trophies](https://github-profile-trophy.vercel.app/?username=sathiyapriya04&theme=flat&no-frame=true&no-bg=true&column=7&margin-w=5)
-
-</div>
-
----
-
-### 📬 Let's Connect!
-
-<div align="center">
-
-*I'm always open to collaborating on interesting projects!*
-
-💌 **sathiyapriyasudha2004@gmail.com**
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sathiya-priya-p-06092a328/)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sathiyapriya04)
+<div align="center">
+
+| 🏥 **MEDICOS** | Healthcare management platform |
+|:--|:--|
+| 🎮 **Snake Game** | Classic game with modern UI |
+| 📋 **Leave Management** | Employee leave tracking system |
+| 🛒 **Shoplist** | Smart shopping list application |
+| 📱 **Cobay** | Full-stack web application |
+
+</div>
+
+<div align="center">
+  
+[![View All Projects](https://img.shields.io/badge/View%20All%20Projects-667eea?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sathiyapriya04?tab=repositories)
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  
+<img src="https://github-profile-trophy.vercel.app/?username=sathiyapriya04&theme=flat&no-frame=true&column=4&margin-w=15&margin-h=15" alt="Trophies"/>
+
+</div>
+
+---
+
+## 📈 Activity Graph
+
+<div align="center">
+  
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sathiyapriya04&bg_color=ffffff&color=667eea&line=764ba2&point=667eea&area=true&hide_border=true" width="100%" alt="Activity Graph"/>
+
+</div>
+
+---
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+**I'm always excited to collaborate on interesting projects!**
+
+<br/>
+
+<a href="mailto:sathiyapriyasudha2004@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+</a>
+&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/sathiya-priya-p-06092a328/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+&nbsp;&nbsp;
+<a href="https://github.com/sathiyapriya04">
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+
+<br/><br/>
+
+💬 *"The only way to do great work is to love what you do."*
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=sathiyapriya04&color=667eea&style=for-the-badge&label=Profile+Views" alt="Profile Views"/>
 
 </div>
 
 ---
 
 <div align="center">
+  
+**⭐ Star my repositories if you find them helpful!**
 
-![Views](https://komarev.com/ghpvc/?username=sathiyapriya04&color=6C63FF&style=flat-square&label=Profile+Views)
-
-*"Code is like humor. When you have to explain it, it's bad."* 💜
+Made with ❤️ by **Sathiya Priya P**
 
 </div>
 
 <!-- Footer Wave -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=120&section=footer" width="100%"/>
