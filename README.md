@@ -1,9 +1,14 @@
 <div align="center">
   
-<!-- Dynamic Header -->
+<!-- Animated Header -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=Sathiya%20Priya%20P&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Problem%20Solver&descSize=20&descAlignY=55&descAlign=50" width="100%"/>
 
 <br/>
+
+<!-- Animated Intro -->
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&width=600&lines=%F0%9F%91%8B+Hello%2C+World!;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" /></a>
+
+<br/><br/>
 
 <!-- Professional Badges -->
 <a href="mailto:sathiyapriyasudha2004@gmail.com"><img src="https://img.shields.io/badge/Email-sathiyapriyasudha2004%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
@@ -12,14 +17,18 @@
 &nbsp;
 <a href="https://github.com/sathiyapriya04"><img src="https://img.shields.io/badge/GitHub-Follow%20@sathiyapriya04-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 
-<br/><br/>
-
-<!-- Typing Animation -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&multiline=true&repeat=false&width=600&height=100&lines=%F0%9F%8E%93+PSG+College+of+Technology;%F0%9F%93%8D+Coimbatore%2C+Tamil+Nadu%2C+India;%E2%9C%A8+Exploring%2C+Learning+%26+Evolving+Every+Day!" alt="Typing SVG" />
-
 </div>
 
 <br/>
+
+<!-- Animated PSG Badge Section -->
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=24&duration=4000&pause=1000&color=764BA2&center=true&vCenter=true&multiline=true&repeat=false&width=700&height=120&lines=%F0%9F%8E%93+PSG+COLLEGE+OF+TECHNOLOGY;%F0%9F%93%8D+Coimbatore%2C+Tamil+Nadu%2C+India;%E2%9C%A8+Exploring%2C+Learning+%26+Evolving+Every+Day!" alt="PSG Info" />
+
+</div>
+
+---
 
 ## 👩‍💻 About Me
 
@@ -41,14 +50,23 @@ I'm a passionate **Full Stack Developer** from **Coimbatore, India**, currently 
 
 <div align="center">
 
-### Languages
-<img src="https://skillicons.dev/icons?i=js,python,html,css&theme=light" alt="Languages" />
+<!-- Animated Tech Icons -->
+<img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" />
+<img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" />
+<img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65" height="65" />
+<img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="65" height="65" />
+<img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="65" height="65" />
 
-### Frameworks & Libraries
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,tailwind&theme=light" alt="Frameworks" />
+<br/><br/>
 
-### Database & Tools
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,git,github,vscode,postman&theme=light" alt="Tools" />
+### 🎨 Frontend
+<img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind&perline=5&theme=light" />
+
+### ⚙️ Backend
+<img src="https://skillicons.dev/icons?i=nodejs,express,python&perline=5&theme=light" />
+
+### 🗄️ Database & Tools
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,git,github,vscode,postman&perline=6&theme=light" />
 
 </div>
 
@@ -132,6 +150,7 @@ I'm a passionate **Full Stack Developer** from **Coimbatore, India**, currently 
 
 <br/>
 
+<!-- Animated Social Icons -->
 <a href="mailto:sathiyapriyasudha2004@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
 </a>
@@ -146,9 +165,10 @@ I'm a passionate **Full Stack Developer** from **Coimbatore, India**, currently 
 
 <br/><br/>
 
-💬 *"The only way to do great work is to love what you do."*
+<!-- Animated Quote -->
+<img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=4000&pause=2000&color=764BA2&center=true&vCenter=true&width=500&lines=%22The+only+way+to+do+great+work+is+to+love+what+you+do.%22" alt="Quote" />
 
-<br/>
+<br/><br/>
 
 <img src="https://komarev.com/ghpvc/?username=sathiyapriya04&color=667eea&style=for-the-badge&label=Profile+Views" alt="Profile Views"/>
 
@@ -160,7 +180,7 @@ I'm a passionate **Full Stack Developer** from **Coimbatore, India**, currently 
   
 **⭐ Star my repositories if you find them helpful!**
 
-Made with ❤️ by **Sathiya Priya P**
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=16&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&width=400&lines=Made+with+%E2%9D%A4%EF%B8%8F+by+Sathiya+Priya+P" alt="Footer" />
 
 </div>
 
