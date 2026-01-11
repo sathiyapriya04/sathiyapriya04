@@ -106,6 +106,16 @@ I'm always open to collaborating on interesting projects. Feel free to reach out
 
 ---
 
+### 💭 Random Dev Quote
+
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light&border=true" alt="Dev Quote"/>
+
+</div>
+
+---
+
 <div align="center">
   
 *Thanks for visiting my profile!*
