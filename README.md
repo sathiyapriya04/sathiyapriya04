@@ -110,11 +110,13 @@ I'm always open to collaborating on interesting projects. Feel free to reach out
 
 ---
 
-### 💭 Random Dev Quote
+### 💭 Quote
 
 <div align="center">
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+*"Trust yourself. You know more than you think you do."*
+
+**— Benjamin Spock**
 
 </div>
 
