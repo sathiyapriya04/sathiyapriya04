@@ -1,15 +1,13 @@
 <div align="center">
 
-<!-- Wave Header matching footer style -->
+<!-- Wave Header -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24&height=150&section=header&text=Welcome%20to%20my%20Profile&fontSize=40&fontColor=ffffff" width="100%"/>
 
 <br/>
 
 # Hi, I'm Sathiya Priya P 👋
 
-**Full Stack Developer** from **Coimbatore, India**
-
-Currently studying at **PSG College of Technology**
+**Full Stack Developer** | **PSG College of Technology**
 
 <br/>
 
@@ -55,15 +53,21 @@ I'm passionate about building clean, efficient, and user-friendly web applicatio
 ### GitHub Stats
 
 <div align="center">
-  
-<img src="https://github-readme-stats.vercel.app/api?username=sathiyapriya04&show_icons=true&theme=default&hide_border=true&bg_color=ffffff&title_color=667eea&icon_color=764ba2&text_color=333333" alt="GitHub Stats" width="48%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com?user=sathiyapriya04&theme=default&hide_border=true&background=ffffff&ring=667eea&fire=764ba2&currStreakLabel=667eea" alt="GitHub Streak" width="48%"/>
+
+<a href="https://github.com/sathiyapriya04">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=sathiyapriya04&show_icons=true&theme=buefy&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
+</a>
+<a href="https://github.com/sathiyapriya04">
+  <img src="https://streak-stats.demolab.com?user=sathiyapriya04&theme=buefy&hide_border=true" alt="GitHub Streak" height="165"/>
+</a>
 
 </div>
 
 <div align="center">
-  
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sathiyapriya04&layout=compact&theme=default&hide_border=true&bg_color=ffffff&title_color=667eea" alt="Top Languages" width="38%"/>
+
+<a href="https://github.com/sathiyapriya04">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sathiyapriya04&layout=compact&theme=buefy&hide_border=true" alt="Top Languages" height="150"/>
+</a>
 
 </div>
 
@@ -100,7 +104,7 @@ I'm always open to collaborating on interesting projects. Feel free to reach out
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=sathiyapriya04&color=667eea&style=flat-square&label=Profile+Views"/>
+<img src="https://komarev.com/ghpvc/?username=sathiyapriya04&color=667eea&style=for-the-badge&label=Profile+Views"/>
 
 </div>
 
